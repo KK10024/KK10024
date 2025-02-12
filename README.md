@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 😛 **Tech Stack**
+### 😛 **Stack**
 
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=white">
