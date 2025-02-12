@@ -1,14 +1,21 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=150&section=header&text=I`m%20KiJun%20Back%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=120&section=header&text=I`m%20KiJun%20Back%20%F0%9F%A4%97)
   
 </div>
 
+
 <div>
+<!--Body-->
+
+## 👀 About Me
+#### :raising_hand: I am a software Engineer from South Korea.<br/>
+#### :fire: I aim to become a software engineer.<br/>
+<br/>
 <br/>
 
-### **📒 Tech Stack**
+## 📒 Tech Stack
 ### Language
 
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white">
@@ -50,7 +57,6 @@
 </div>
 </br>
 
-
+## 🤔 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KK10024)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KK10024&layout=compact)
