@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=I`m%20KiJun%20Back%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=150&section=header&text=I`m%20KiJun%20Back%20%F0%9F%A4%97)
   
 </div>
 
