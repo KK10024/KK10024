@@ -38,7 +38,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/TypeORM-FF0000?style=flat-square&logo=typeorm&logoColor=white">
 
 <br/>
 
@@ -51,6 +50,7 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/TypeORM-FF0000?style=flat-square&logo=typeorm&logoColor=white">
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
 
